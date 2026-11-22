@@ -1,0 +1,1 @@
+My capstone project investigates whether attendance, VLE activity, library use and assessment-submission behaviour can be used by week six to identify accounting students at risk of poor module outcomes, supporting earlier and more targeted student interventions. (Chaman Shrestha)
